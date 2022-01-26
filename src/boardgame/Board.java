@@ -4,7 +4,7 @@ public class Board {
 
     private int lines;
     private int columns;
-    private Piece [][] pieces; // matrix of pieces
+    private Piece[][] pieces; // matrix of pieces
 
     public Board(int lines, int columns) {
         this.lines = lines;
@@ -27,4 +27,13 @@ public class Board {
     public void setColumns(int columns) {
         this.columns = columns;
     }
+
+    public Piece piece(int line, int column) {
+        return pieces[line][column];
+    }
+
+    public Piece piece(Position position) {
+        return pieces[position.getLine()][position.getColumn()];
+    }
+
 }
