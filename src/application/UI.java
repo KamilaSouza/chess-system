@@ -28,6 +28,11 @@ public class UI {
     public static final String ANSI_CYAN_BACKGROUND = "\u001B[46m";
     public static final String ANSI_WHITE_BACKGROUND = "\u001B[47m";
 
+    public static void clearScreen() { //clear screen after moves
+        System.out.print("\033[H\033[2J");
+        System.out.flush();
+    }
+
     public static ChessPosition readChessPosition(Scanner scanner) {
         try {
             String s = scanner.nextLine();
@@ -35,7 +40,7 @@ public class UI {
             int line = Integer.parseInt(s.substring(1)); //get position 1 "a1' = 1
             return new ChessPosition(column, line);
         } catch (RuntimeException e) {
-            throw new InputMismatchException("Error reading Chess Position, valid values are between a1 and h8");
+            throw new InputMismatchException("Error reading Chess Position, valid values are between a1 and h8.");
         }
     }
 
