@@ -1,2 +1,2 @@
-# chess-system
+## Chess system ♟
 Chess Project from Java Completo Nelio Alves - Udemy
