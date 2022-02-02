@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67b07229-2d33-4fbb-8c1c-ead9e7bf585a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="24BjlhX8XN1TaysIHrDBdwh9P7c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="application" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="application.Main" />
+      <module name="ChessSystem" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67b07229-2d33-4fbb-8c1c-ead9e7bf585a" name="Default Changelist" comment="" />
+      <created>1643111028069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643111028069</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First Class Position">
+      <created>1643112458302</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643112458302</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Board and Piece">
+      <created>1643117415956</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643117415956</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Chess Layer, UI">
+      <created>1643201281587</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643201281587</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Placing pieces">
+      <created>1643209022287</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643209022287</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Board Exception">
+      <created>1643288362205</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1643288362205</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Board Exception">
+      <created>1643288479395</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643288479395</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Chess Exception and Position">
+      <created>1643290879580</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1643290879580</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Colors in board">
+      <created>1643294280239</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1643294280239</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Colors in board">
+      <created>1643294388791</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1643294388791</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Moving pieces">
+      <created>1643306357142</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1643306357142</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Clear screen, handling exceptions">
+      <created>1643462494818</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1643462494818</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Possible moves of a piece">
+      <created>1643465069606</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1643465069606</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Possible moves of a piece">
+      <created>1643466628020</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1643466628020</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Moves of a rook">
+      <created>1643466671576</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1643466671576</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Colors on possible moves">
+      <created>1643468453208</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1643468453208</updated>
+    </task>
+    <task id="LOCAL-00016" summary="King moves">
+      <created>1643554019494</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1643554019494</updated>
+    </task>
+    <task id="LOCAL-00017" summary="King moves">
+      <created>1643555109611</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1643555109611</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Switching player">
+      <created>1643565320186</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1643565320186</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Switching player">
+      <created>1643565857795</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1643565857795</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Handling captured pieces">
+      <created>1643567924595</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1643567924595</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Check">
+      <created>1643726545228</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1643726545228</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Check">
+      <created>1643726616220</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1643726616220</updated>
+    </task>
+    <task id="LOCAL-00023" summary="CheckMate">
+      <created>1643731036302</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1643731036302</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Checkmate">
+      <created>1643808184868</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1643808184868</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Piece move count">
+      <created>1643809210780</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1643809210780</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Pawn">
+      <created>1643815666149</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1643815666149</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Pawn">
+      <created>1643815713310</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1643815713310</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Pawn">
+      <created>1643817694336</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1643817694336</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Bishop">
+      <created>1643820352096</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1643820352096</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Bishop">
+      <created>1643820467483</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1643820467483</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Knight">
+      <created>1643822411638</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1643822411638</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Knight">
+      <created>1643823186719</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1643823186719</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Bishop">
+      <created>1643824771920</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1643824771920</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Queen">
+      <created>1643824789594</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1643824789594</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Class Position" />
+    <MESSAGE value="Board and Piece" />
+    <MESSAGE value="Chess Layer, UI" />
+    <MESSAGE value="Placing pieces" />
+    <MESSAGE value="Board Exception" />
+    <MESSAGE value="Chess Exception and Position" />
+    <MESSAGE value="Colors in board" />
+    <MESSAGE value="Moving pieces" />
+    <MESSAGE value="Clear screen, handling exceptions" />
+    <MESSAGE value="Possible moves of a piece" />
+    <MESSAGE value="Moves of a rook" />
+    <MESSAGE value="Colors on possible moves" />
+    <MESSAGE value="King moves" />
+    <MESSAGE value="Switching player" />
+    <MESSAGE value="Handling captured pieces" />
+    <MESSAGE value="Check" />
+    <MESSAGE value="CheckMate" />
+    <MESSAGE value="Checkmate" />
+    <MESSAGE value="Piece move count" />
+    <MESSAGE value="Pawn" />
+    <MESSAGE value="Knight" />
+    <MESSAGE value="Bishop" />
+    <MESSAGE value="Queen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Queen" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chess/ChessMatch.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chess/ChessMatch.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chess/ChessMatch.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chess/ChessMatch.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chess/ChessMatch.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chess/ChessMatch.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chess/ChessMatch.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chess/ChessMatch.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chess/ChessMatch.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chess/ChessMatch.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chess/ChessMatch.java</url>
+          <line>103</line>
+          <properties class="chess.ChessMatch" method="nextTurn">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
