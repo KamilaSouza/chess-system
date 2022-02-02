@@ -22,6 +22,12 @@ public class Bishop extends ChessPiece {
 
         Position p = new Position(0, 0);
 
+        //            x       x
+        //              x   x
+        //                B
+        //              x   x
+        //            x       x
+
         //north west
         p.setValues(position.getLine() - 1, position.getColumn() - 1);
         while (getBoard().positionExists(p) && !getBoard().thereIsAPiece(p)) {
