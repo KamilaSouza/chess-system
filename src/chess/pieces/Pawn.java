@@ -12,6 +12,15 @@ public class Pawn extends ChessPiece {
     }
 
     @Override
+    public String toString() {
+        return "P";
+    }
+
+    //                x                         y x y
+    // First        y x y         Other           P
+    // move           P           moves
+
+    @Override
     public boolean[][] possibleMoves() {
         boolean[][] mat = new boolean[getBoard().getLines()][getBoard().getColumns()];
 
@@ -57,8 +66,4 @@ public class Pawn extends ChessPiece {
         return mat;
     }
 
-    @Override
-    public String toString() {
-        return "P";
-    }
 }
