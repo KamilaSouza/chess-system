@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="67b07229-2d33-4fbb-8c1c-ead9e7bf585a" name="Default Changelist" comment="Queen">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChessSystem/chess/ChessMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChessSystem/chess/ChessMatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChessSystem/application/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChessSystem/application/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
@@ -406,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643903474451</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Special move Promotion">
+      <created>1643907591431</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1643907591431</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -422,7 +429,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="First Class Position" />
     <MESSAGE value="Board and Piece" />
     <MESSAGE value="Chess Layer, UI" />
     <MESSAGE value="Placing pieces" />
@@ -447,6 +453,7 @@
     <MESSAGE value="Special move Castling" />
     <MESSAGE value="Special move en passant" />
     <MESSAGE value="Pawn" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pawn" />
+    <MESSAGE value="Special move Promotion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Special move Promotion" />
   </component>
 </project>
